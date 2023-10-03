@@ -16,7 +16,7 @@ Please note that this work is done on university machines so YOUR machine doesn'
 
 TL;DR - Try not to break the lab machines, but don't worry too much if something goes off the rails. Get and instructor and we'll help fix it. (Learning Moment!)
 
-### Task 1 - Virtual Machine Creation
+### Task 1 - Virtual Machine Creation (Ubuntu)
 This task will walk you through the steps of creating the virtual machine (VM). This is the software construct that the operating system (OS) will install into. It defines all the virtualized hardware that the OS will "see".
 
 1. On the start menu search for "Hyper-V Manager" (blue icon that looks like a bigger and smaller PC next to each other). This console is the primary interface for working with VMs in Hyper-V. It is possible to work with VMs at the CLI (in this case it would be PowerShell), for now that's beyond the scope of this lab.
@@ -88,3 +88,9 @@ This task will walk you through the steps of creating the virtual machine (VM). 
     <br>
     ![](./images/9-hyper-v-console-shut-down.png)
     <br>
+
+### Task 2 - Virtual Machine Creation (Windows)
+Due to RAM limitations on the machines in the lab this part of the lab will ONLY work on machines with 16 GB or RAM or more. In the SCHN 004 lab will mean only the large new BLACK PCs have that much RAM. Group up if needed to complete the next part.
+
+16. There is a Windows 11 ISO in the same folder with the Ubuntu Desktop ISO. Using what you have learned earlier go create a second VM and install Windows.
+**Note:** Windows uses much more RAM and CPU than Ubuntu. During the hardware RAM allocation provide the Windows machine with 8GB of RAM.
