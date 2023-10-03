@@ -28,7 +28,7 @@ This task will walk you through the steps of creating the virtual machine (VM). 
     **Bottom Pane:** Details: Details about items of the selections made above
     **Right Pane:** Actions: Options for any selection made. Think of this pane as normal pull-down menus in an application like MS-Word.
     <br>
-    ![](./images/1-hyper-v-console-1.png)
+    ![](./images/1-hyper-v-console-1.png = 250x)
 <br>
 
 2. Right-Click on the computer name in the left most pane and select New -> Virtual Machine. This will start the "New Virtual Machine Wizard".
