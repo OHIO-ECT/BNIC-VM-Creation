@@ -83,3 +83,8 @@ This task will walk you through the steps of creating the virtual machine (VM). 
     <br>
     ![](./images/8-hyper-v-console-ubuntu-install.png)
     <br>
+
+15. When finished with a VM go to the Hyper-V console right-click on the VM and select `Shut Down...`
+    <br>
+    ![](./images/9-hyper-v-console-shut-down.png)
+    <br>
