@@ -20,8 +20,9 @@ TL;DR - Try not to break the lab machines, but don't worry too much if something
 This task will walk you through the steps of creating the virtual machine (VM). This is the software construct that the operating system (OS) will install into. It defines all the virtualized hardware that the OS will "see".
 
 1. On the start menu search for "Hyper-V Manager" (blue icon that looks like a bigger and smaller PC next to each other). This console is the primary interface for working with VMs in Hyper-V. It is possible to work with VMs at the CLI (in this case it would be PowerShell), for now that's beyond the scope of this lab.
+<br>
 
-2. 
+2. The 
 
 
 
